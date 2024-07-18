@@ -1,5 +1,5 @@
 # TicTakToe
-This is a simple TikTakToe game made with Java.
+This is an amazing TikTakToe game made with Java.
 ## Instructions
 - Make sure you download both the App.java and TicTakToe.java
 - Place these files in one folder
